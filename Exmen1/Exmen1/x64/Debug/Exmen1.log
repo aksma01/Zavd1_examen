@@ -1,0 +1,3 @@
+﻿  Exmen1.cpp
+D:\My project\C++\Exmen1\Exmen1\Exmen1.cpp(47,63): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Exmen1.vcxproj -> D:\My project\C++\Exmen1\x64\Debug\Exmen1.exe
